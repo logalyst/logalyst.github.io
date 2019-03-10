@@ -1,6 +1,6 @@
 ---
 title: Logalyst
-
+layout: default
 ---
 
 ## Logalyst: The Log Analyst
